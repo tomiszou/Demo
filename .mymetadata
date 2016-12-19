@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Spring-securityDemo"
+  id="myeclipse.1481722564610"
+  context-root="/Spring-securityDemo"
+  j2ee-spec="1.7"
+  archive="Spring-securityDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
